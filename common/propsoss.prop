@@ -1,0 +1,4 @@
+# This file will change default ringtone, notification sound and alarm if choosing media option
+ro.config.ringtone=Tregenza_Razer_Gunmetal_Panther_longer.ogg
+ro.config.notification_sound=standard_notification_1.ogg
+ro.config.alarm_alert=alarm_1_cheryl.ogg
