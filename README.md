@@ -32,6 +32,7 @@ All the components in this mod are protected under the [GPL-V3 license agreement
 - [RKBDI] For helping me with the Razer sources
 - [MarcAnt01] For letting me use his Oxy-fi module
 - [Jaymin Suthar] For answering my noob questions
+- [Yash Garg](https://github.com/Yash-Grag/) For helping me setup githhub
 - [thehappydinoa](https://github.com/thehappydinoa) for initial Unity implementation.
 - [JohnFawkes](https://github.com/JohnFawkes) for helping me to solve bugs.
 - [Zackptg5](https://github.com/Zackptg5) for Unity template.
